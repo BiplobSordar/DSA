@@ -1,0 +1,43 @@
+What is Data Structure?
+=>A data Structure is a way to store and orgarinze data so that it can be used effieiently.
+
+=>A data Structure is a collection of data-values,the relationships among them and the functions or opereations that can be applied to that data.
+
+
+Why Data Structure?
+
+
+
+**Bulit in Data Structure In JavaScript?
+
+##Array ##Object ##Set ##Map
+
+
+
+What is Set?
+
+=>Set is a Data Structure that can hold a collection of values .The values however must be unique.
+
+
+
+What is Map?
+
+=>Map is an unordered collection of key-value pairs.Both key-vallues can be of any data type.
+
+
+Stack Data Structure?
+
+=> The Stack Data Structure is a sequential collection of elements that follows the principle of Last In First Out (LIFO).
+
+
+Queue Data Structure?
+
+=>The Queue Data Structure is a sequential collection of elements that follows the principle of First In First Out(FIFO).
+
+
+
+
+
+
+
+

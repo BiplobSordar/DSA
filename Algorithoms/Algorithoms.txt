@@ -1,0 +1,44 @@
+What is an Algorithoms?
+
+=>An Algorithoms is a set of well defigned insturctions to solve a Particular Problem.
+
+What is time complexity?
+
+=>Amount of time taken by an algorithom to run ,as a function of input size.
+
+What is space complexity?
+
+=>Amount of space taken by an algorithom to run ,as a funtion of input size.
+
+
+How to represent complexity?
+
+=>To represent Complexity we use 
+
+#Big-O Notation (o-notation) -Worst Case complexity,
+#Omega notation -Best Case Complexity,
+#Theta Notation -Average Case Complexity
+
+
+What is Big-O Notiation?
+=>Big-O Notation describe the complexity of an algorithoms using algebraic terms.
+
+It has two important characteristics,
+*It is expressed in terms of the input
+*It focuses on the bigger picture without getting caught up in the minute details.
+
+
+
+Time Complexity
+
+*Big-O(n)=Linear
+*Big-O(1)=Constant
+*Big-O(n^2)=Quadratic
+*Big-O(n^3)=Cubic
+*Big-O(logn)=Logarithmic
+
+Space Complexity
+
+*Big-O(n)=Linear
+*Big-O(1)=Constant
+*Big-O(logn)=Logarithmic
